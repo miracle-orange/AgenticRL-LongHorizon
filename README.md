@@ -3,7 +3,6 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch 2.7](https://img.shields.io/badge/PyTorch-2.7-red.svg)](https://pytorch.org/)
 [![CUDA 12.6](https://img.shields.io/badge/CUDA-12.6-green.svg)](https://developer.nvidia.com/cuda-downloads)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > **Solving GRPO Training Collapse in Long-Horizon Multi-Tool Agents**  
 > A systematic ablation study on τ-bench airline (50-task, multi-turn, multi-tool conversational agents), achieving **+37% overall pass^1** over vanilla GRPO via a novel **PRM-Lite + LATA** joint approach.
