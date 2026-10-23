@@ -218,9 +218,9 @@ bash eval_exp4_prm_lite_lata.sh
 
 | 📄 Document | 📝 Content |
 |----------|---------|
-| [`docs/ablation/ablation_diagnosis_report.md`](docs/ablation/ablation_diagnosis_report.md) | **Main report**: training curves, eval data, mechanism analysis, hypothesis validation |
-| [`docs/ablation/ablation_plan.md`](docs/ablation/ablation_plan.md) | Experiment design manual: code implementation, PRM-Lite rule set, hacking risk analysis |
-| [`docs/vanilla_grpo/vanilla_grpo_diagnosis.md`](docs/vanilla_grpo/vanilla_grpo_diagnosis.md) | Vanilla GRPO collapse diagnosis: three root causes, five checkpoints analysis |
+| [`agenticrl-longhorizon/docs/ablation/ablation_diagnosis_report.md`](agenticrl-longhorizon/docs/ablation/ablation_diagnosis_report.md) | **Main report**: training curves, eval data, mechanism analysis, hypothesis validation |
+| [`agenticrl-longhorizon/docs/ablation/ablation_plan.md`](agenticrl-longhorizon/docs/ablation/ablation_plan.md) | Experiment design manual: code implementation, PRM-Lite rule set, hacking risk analysis |
+| [`agenticrl-longhorizon/docs/vanilla_grpo/vanilla_grpo_diagnosis.md`](agenticrl-longhorizon/docs/vanilla_grpo/vanilla_grpo_diagnosis.md) | Vanilla GRPO collapse diagnosis: three root causes, five checkpoints analysis |
 | [`agenticrl-longhorizon-blog.md`](agenticrl-longhorizon-blog.md) | 🆕 Technical blog: from training collapse to stable convergence (PRM-Lite + LATA) |
 
 ---
