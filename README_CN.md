@@ -221,6 +221,7 @@ bash eval_exp4_prm_lite_lata.sh
 | [`agenticrl-longhorizon/docs/ablation/ablation_diagnosis_report.md`](agenticrl-longhorizon/docs/ablation/ablation_diagnosis_report.md) | **主报告**：训练曲线、评测数据、机制分析、假设验证 |
 | [`agenticrl-longhorizon/docs/ablation/ablation_plan.md`](agenticrl-longhorizon/docs/ablation/ablation_plan.md) | 实验设计手册：代码实现、PRM-Lite 规则集、黑客风险分析 |
 | [`agenticrl-longhorizon/docs/vanilla_grpo/vanilla_grpo_diagnosis.md`](agenticrl-longhorizon/docs/vanilla_grpo/vanilla_grpo_diagnosis.md) | Vanilla GRPO 崩溃诊断：三个根本原因、五个检查点分析 |
+| [`agenticrl-longhorizon-blog.md`](agenticrl-longhorizon-blog.md) | 🆕 技术博客：从训练崩溃到稳定收敛（PRM-Lite + LATA） |
 
 ---
 
