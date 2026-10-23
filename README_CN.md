@@ -3,7 +3,6 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch 2.7](https://img.shields.io/badge/PyTorch-2.7-red.svg)](https://pytorch.org/)
 [![CUDA 12.6](https://img.shields.io/badge/CUDA-12.6-green.svg)](https://developer.nvidia.com/cuda-downloads)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > **解决长链路多工具智能体中的 GRPO 训练崩溃问题**  
 > 在 τ-bench airline（50 任务、多轮对话、多工具调用场景）上的系统性消融实验，通过创新的 **PRM-Lite + LATA 联合方案**，相较 Vanilla GRPO 基线实现 **+37% 的整体 pass^1 提升**。
